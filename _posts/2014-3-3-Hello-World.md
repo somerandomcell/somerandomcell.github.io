@@ -1,8 +1,3 @@
----
-layout: post
-title: Hello World
----
-
 ![Thomas Labuschagne](https://avatars.githubusercontent.com/u/181215633?s=400&u=3d35d694e21633adac809b993d56744cd1b4b24b&v=4)
 
 ## Introduction
