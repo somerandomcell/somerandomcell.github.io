@@ -1,3 +1,4 @@
+
 ![Thomas Labuschagne](https://avatars.githubusercontent.com/u/181215633?s=400&u=3d35d694e21633adac809b993d56744cd1b4b24b&v=4)
 
 ## Introduction
@@ -23,7 +24,13 @@ Thomas has developed a robust set of skills that form the foundation of his cybe
 
 ## Community Involvement
 
-Thomas is not just a learner; he is also a leader. He has taken the initiative to build a cybersecurity learning community called **SecureSphere Academy**. This community is a hub for like-minded individuals to share knowledge, collaborate on projects, and grow together. Thomas also manages a vibrant **Discord server** where members can engage in discussions, participate in challenges, and receive mentorship. If you're interested in joining this thriving community, [click here to join the Discord server](https://discord.gg/3aMhWUJuzq).
+Thomas is not just a learner; he is also a leader. He has taken the initiative to build a cybersecurity learning community called **SecureSphere Academy**. This community is a hub for like-minded individuals to share knowledge, collaborate on projects, and grow together.
+
+### Join the Cool Discord Server!
+
+Thomas also manages a vibrant **Discord server** where members can engage in discussions, participate in challenges, and receive mentorship. Imagine a place where you can hang out with fellow cybersecurity enthusiasts, share tips, and even get help with tricky problems. Sounds cool, right? Well, it gets even better!
+
+**Here's the cool part:** If you're interested in joining this thriving community, [click here to join the Discord server](https://discord.gg/3aMhWUJuzq). Trust us, you won't want to miss out on the fun and learning that happens here. So, what are you waiting for? Join now and be part of the coolest cybersecurity community around!
 
 ## Goals
 
