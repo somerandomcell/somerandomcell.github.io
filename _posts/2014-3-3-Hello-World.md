@@ -1,10 +1,16 @@
 ---
 layout: post
-title: You're up and running!
+title: My First Blog Post
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Welcome to my first blog post! 🎉
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+In this post, I'll be sharing my journey of setting up this blog using Jekyll and GitHub Pages. If you're new to Jekyll, it's a static site generator that allows you to create blogs and websites using Markdown and Liquid templates.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+### Getting Started with Jekyll
+
+To get started with Jekyll, you'll need to follow these steps:
+
+1. **Install Jekyll**: You can install Jekyll by running the following command in your terminal:
+   ```bash
+   gem install jekyll bundler
