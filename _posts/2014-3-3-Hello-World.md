@@ -1,69 +1,41 @@
 ---
 layout: post
-title: Getting Started with Cybersecurity
+title: Hello World
 ---
 
-![Cybersecurity Header Image]({{ site.baseurl }}/images/cybersecurity-header.jpg)
+![Thomas Labuschagne](https://avatars.githubusercontent.com/u/181215633?s=400&u=3d35d694e21633adac809b993d56744cd1b4b24b&v=4)
 
-Welcome to my journey into the world of cybersecurity! 🛡️
+## Introduction
 
-In this post, I'll be sharing my progress in studying cybersecurity and providing resources to help others get started. Whether you're a complete beginner or looking to deepen your knowledge, this guide will help you navigate the basics of cybersecurity.
+Meet Thomas Labuschagne, a passionate 19-year-old cybersecurity enthusiast who embarked on his journey at the tender age of 15. Fueled by an insatiable curiosity and a deep-seated commitment to the field, Thomas has been relentlessly pursuing his dream of becoming a cybersecurity expert. His journey is marked by a relentless pursuit of knowledge, hands-on experience, and a genuine desire to make a positive impact in the world of digital security.
 
-### Table of Contents
+## Current Studies
 
-1. [Introduction to Cybersecurity](#introduction-to-cybersecurity)
-2. [Key Concepts](#key-concepts)
-3. [Learning Resources](#learning-resources)
-4. [Tools and Technologies](#tools-and-technologies)
-5. [My Progress](#my-progress)
-6. [Conclusion](#conclusion)
+Thomas is currently pursuing several certifications to bolster his expertise in cybersecurity. One of his primary focuses is on **TCM Security**, where he is honing his skills in advanced penetration testing and ethical hacking. To complement his theoretical knowledge, Thomas actively engages with practical platforms like **Hack The Box** and **TryHackMe**. These platforms provide him with the opportunity to apply his learning in real-world scenarios, emphasizing his dedication to hands-on learning and continuous improvement.
 
-### Introduction to Cybersecurity
+## Skills and Interests
 
-Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. These cyberattacks are usually aimed at accessing, changing, or destroying sensitive information; extorting money from users; or interrupting normal business processes.
+Thomas has developed a robust set of skills that form the foundation of his cybersecurity expertise. Here are some of his key skills and interests:
 
-### Key Concepts
+- **Python Programming**: Proficient in scripting and automation.
+- **Linux Fundamentals**: Strong understanding of Linux operating systems and command-line tools.
+- **Web Security Techniques**:
+  - **IDOR (Insecure Direct Object Reference)** vulnerabilities
+  - **XSS (Cross-Site Scripting)** vulnerabilities
+- **Interests in Learning**:
+  - **NIM**: Exploring NIM for advanced scripting and automation.
+  - **JavaScript**: Enhancing web security skills through JavaScript.
 
-- **Confidentiality**: Ensuring that information is accessible only to those authorized to have access.
-- **Integrity**: Safeguarding the accuracy and completeness of information and processing methods.
-- **Availability**: Ensuring that authorized users have access to information and associated assets when required.
+## Community Involvement
 
-### Learning Resources
+Thomas is not just a learner; he is also a leader. He has taken the initiative to build a cybersecurity learning community called **SecureSphere Academy**. This community is a hub for like-minded individuals to share knowledge, collaborate on projects, and grow together. Thomas also manages a vibrant **Discord server** where members can engage in discussions, participate in challenges, and receive mentorship. If you're interested in joining this thriving community, [click here to join the Discord server](https://discord.gg/3aMhWUJuzq).
 
-Here are some resources to help you get started:
+## Goals
 
-- **Books**:
-  - "Cybersecurity for Dummies" by Joseph Steinberg
-  - "The Web Application Hacker's Handbook" by Dafydd Stuttard and Marcus Pinto
+Thomas's aspirations are clear: to blend academic knowledge with practical experience in cybersecurity. He aims to enhance his job prospects by continuously expanding his skill set and contributing positively to the industry. Thomas envisions a future where he can leverage his expertise to protect digital assets, prevent cyber threats, and mentor the next generation of cybersecurity professionals.
 
-- **Online Courses**:
-  - [Coursera - Introduction to Cyber Security Specialization](https://www.coursera.org/specializations/intro-cyber-security)
-  - [edX - Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals)
+## Call to Action
 
-- **Websites**:
-  - [Khan Academy - Cybersecurity](https://www.khanacademy.org/computing/computer-science/cryptography)
-  - [Cybrary - Free Cybersecurity Training](https://www.cybrary.it/)
+If you're as passionate about cybersecurity as Thomas is, we invite you to connect with him and follow his journey. Whether you're a fellow learner, a seasoned professional, or someone curious about the field, there's always room for growth and collaboration. Join Thomas in his quest to make the digital world a safer place.
 
-### Tools and Technologies
-
-- **Wireshark**: A network protocol analyzer that lets you capture and interactively browse the traffic running on a computer network.
-- **Metasploit**: A penetration testing framework that makes hacking simple.
-- **Nmap**: A free and open-source network scanner designed to discover hosts and services on a computer network.
-
-### My Progress
-
-So far, I've completed the following:
-
-- **Completed Courses**:
-  - Introduction to Cyber Security Specialization on Coursera
-  - Cybersecurity Fundamentals on edX
-
-- **Practical Experience**:
-  - Set up a virtual lab environment using VirtualBox and Kali Linux.
-  - Performed basic network scanning and vulnerability assessment using Nmap and Metasploit.
-
-### Conclusion
-
-Cybersecurity is a vast and ever-evolving field. By staying curious and continuously learning, you can build a strong foundation and contribute to protecting digital assets. I hope this guide helps you get started on your cybersecurity journey.
-
-If you have any questions or suggestions, feel free to leave a comment below. Happy learning! 🚀
+---
